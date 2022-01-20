@@ -1,2 +1,1 @@
-# python-small-code-for-beginner
-I don't no who I am
+https://github.com/CodewithLucky2022/python-small-code-for-beginner.git
